@@ -1,0 +1,71 @@
+{
+    "split": [
+        {
+            "id": "1",
+            "title": "3 Day Split",
+            "type": "Beginner",
+            "subType": "Home-Workout",
+            "description": "This is a 3 day split for beginners who want to start workout at home.",
+            "subDescription": "From the author's personal experience, it is better to warm up your muscles before starting the workout. You can do shoulder rotations, arm rotations, leg rotations, and neck rotations. You can also do some jumping jacks to warm up your body.",
+            "exerciseId": ["1", "2", "7", "9", "12", "13", "21", "23"]
+        },
+        {
+            "id": "2",
+            "title": "4 Day Split",
+            "type": "Beginner",
+            "subType": "Home-Workout",
+            "description": "This is a 4 day split for beginners who want to start workout at home.",
+            "subDescription": "This split is a bit more intense compared to the 3 day split. You can do the same warm up exercises before starting the workout.",
+            "exerciseId": [
+                "1", "2", "3", "4", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "21", "23", "24", "27", "31"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Push Pull Legs [PPL]",
+            "type": "Beginner",
+            "subType": "Gym",
+            "description": "This is the most popular and well known gym workout split for beginners.",
+            "subDescription": "This split focuses on the movement of the body. It is a 3 day split where you focus on different muscle groups on different days. It is divided into Pushing movements(chest - shoulders - triceps), Pulling movements(back - biceps), and Legs movements(quads - hamstrings - calves). Point to note is that you need to do warm up exercises before starting the workout. You can rest for a day after completing the 3 day split or after completing a complete cycle of the split (2 full 3 day splits) depending on the fatigue level.",
+            "exerciseId" : [
+                "1",
+                "32",
+                "34",
+                "36",
+                "33",
+                "35",
+                "37",
+                "38",
+                "39",
+                "43",
+                "44",
+                "46",
+                "48", 
+                "49",
+                "50",
+                "66", "67", "68", "70", "71",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58", 
+                "60", "61", "62", "63", "64",
+                "77", "78", "79", "80", "81", "84", "86", 
+                "73", "74", "76"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "4 Day Split",
+            "type": "Intermediate",
+            "subType": "Gym Workout",
+            "description": "The 4 day split, targets the muscle groups partly and is a bit more intense compared to the PPL split.",
+            "subDescription": "From the author's personal experience, it is better to warm up your muscles before starting the workout. You can do shoulder rotations, arm rotations, leg rotations, and neck rotations. You can also do some jumping jacks to warm up your body. Strectching is also important before and after the workout to avoid muscle soreness.",
+            "exerciseId": [
+                "1"
+            ]
+        }
+    ]
+}

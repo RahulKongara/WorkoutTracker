@@ -1,0 +1,789 @@
+{
+    "chest": [
+        {
+            "id": "1",
+            "name": "Regular Push Ups",
+            "link": "regpushups",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "http://localhost:5000/images/pushups.svg",
+            "videoId": "mECzqUIDWfU",
+            "type": "Beginner"
+        },
+        {
+            "id": "2", 
+            "name": "Inline Push Ups",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "http://localhost:5000/images/inclinePushups.svg",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "3", 
+            "name": "Decline Push Ups",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "http://localhost:5000/images/declinePushup.jpg",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "4", 
+            "name": "Diamond Push Ups",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "5", 
+            "name": "Single Leg Push Ups",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },  
+        {
+            "id": "6", 
+            "name": "Single Arm Push Ups",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Expert"
+        },
+        {
+            "id": "7", 
+            "name": "Flat Barbell Bench Press",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "http://localhost:5000/images/flatBarbellBenchPress.jpg",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "8", 
+            "name": "Flat Dumbbell Press",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "9", 
+            "name": "Incline Barbell Bench Press",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "http://localhost:5000/images/inclineBarbellBenchPress.svg",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "10", 
+            "name": "Incline Dumbbell Press",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "11", 
+            "name": "Decline Barbell Bench Press",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "http://localhost:5000/images/declineBarbellBenchPress.svg",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "12", 
+            "name": "Decline Dumbbell Press",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "13", 
+            "name": "Pec Dec Machine",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "http://localhost:5000/images/pecDecMachine.png",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "14", 
+            "name": "Cable Chest Fly",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "15", 
+            "name": "Dumbbell Chest Fly",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "16", 
+            "name": "Chest Dips",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "17", 
+            "name": "Seated Chest Machine",
+            "muscleGroup": "Chest",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        }
+    ],
+    "shoulders": [
+        {
+            "id": "1", 
+            "name": "Arm Circles",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "2", 
+            "name": "Pike Push Ups",
+            "muscleGroup": "Chest, Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "3", 
+            "name": "Shoulder Taps",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "4", 
+            "name": "Military Press",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "5", 
+            "name": "Dumbbell Shoulder Press",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "6", 
+            "name": "Arnold Dumbbell Shoulder Press",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "7", 
+            "name": "Dumbbell Lateral Raises",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "8", 
+            "name": "Cable Lateral Raises",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "9", 
+            "name": "Reverse Pec Dec Machine",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "10", 
+            "name": "Cable Face Pulls",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "11", 
+            "name": "Dumbbell Trap Raises",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "12", 
+            "name": "Barbell Trap Raises",
+            "muscleGroup": "Shoulders",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        }
+    ],
+    "back": [
+        {
+            "id": "1", 
+            "name": "Reverse Snow Angels",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "2", 
+            "name": "Dolphin Kick",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "3", 
+            "name": "Superman",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "4", 
+            "name": "Hip Hinges (Good Mornings)",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "6", 
+            "name": "Regular/Assisted Pull Ups",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "7", 
+            "name": "Wide-grip Lat Pull Down Machine",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "8", 
+            "name": "Close-grip Lat Pull Down Machine",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "9", 
+            "name": "Seated Cable Rows",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "10", 
+            "name": "T-Bar Rows",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "11", 
+            "name": "Barbell Rows",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "12", 
+            "name": "Dumbell Rows",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "13", 
+            "name": "Lat Push Down",
+            "muscleGroup": "Back",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        }
+    ],
+    "arms": [
+        {
+            "id": "5", 
+            "name": "Tricep Dips",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "6", 
+            "name": "Reverse Plank",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "7", 
+            "name": "Diamond Push Ups",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "8", 
+            "name": "Bicep Curl",
+            "muscleGroup": "Bicep",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "9", 
+            "name": "Standing Dumbbell Curls",
+            "muscleGroup": "Biceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "10", 
+            "name": "Standing Ez-Bar Curls",
+            "muscleGroup": "Biceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "11", 
+            "name": "Standing Strict-Bar Curls",
+            "muscleGroup": "Biceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "12", 
+            "name": "Hammer Curls",
+            "muscleGroup": "Biceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "13", 
+            "name": "Preacher Curls",
+            "muscleGroup": "Biceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "14", 
+            "name": "Bayesian Curls",
+            "muscleGroup": "Biceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "15", 
+            "name": "Tricep Curls",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "16", 
+            "name": "Cable Tricep Push Downs",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "17", 
+            "name": "Straight Bar Tricep Push Downs",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "18", 
+            "name": "V-Grip Tricep Push Downs",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "19", 
+            "name": "Skull Crushers",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "20", 
+            "name": "Cable Overhead Presses",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "21", 
+            "name": "Single Tricep Push Downs",
+            "muscleGroup": "Triceps",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "22", 
+            "name": "Dumbbell Wrist Curls",
+            "muscleGroup": "Forearms",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "23", 
+            "name": "Dumbbell Reverse Wrist Curls",
+            "muscleGroup": "Forearms",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "24", 
+            "name": "Zottman Curls",
+            "muscleGroup": "Forearms",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "25", 
+            "name": "Reverse Barbell Curls",
+            "muscleGroup": "Forearms",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        }
+    ],
+    "legs": [
+        {
+            "id": "1", 
+            "name": "Lunges",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "2", 
+            "name": "Side Lunges",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "3", 
+            "name": "Walking Lunges",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "4", 
+            "name": "Squat",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "5", 
+            "name": "Jump Squat",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "6", 
+            "name": "Calf Raises",
+            "muscleGroup": "Calves",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "7", 
+            "name": "Barbell Squat",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "8", 
+            "name": "Walking Lunges",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "9", 
+            "name": "Leg Extensions",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "10", 
+            "name": "Hamstring Curls",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "11", 
+            "name": "Leg Press",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "12", 
+            "name": "Hack Squat",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "13", 
+            "name": "Bulgarian Split Squats",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Expert"
+        },
+        {
+            "id": "14", 
+            "name": "Sumo Squat",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Expert"
+        },
+        {
+            "id": "15", 
+            "name": "Barbell Hip Thrust",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Expert"
+        },
+        {
+            "id": "16", 
+            "name": "Calf Raises",
+            "muscleGroup": "Legs",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Expert"
+        }
+    ],
+    "abs": [
+        {
+            "id": "1", 
+            "name": "Crunches",
+            "muscleGroup": "Core",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "2", 
+            "name": "Bicycle Crunches",
+            "muscleGroup": "Core",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "3", 
+            "name": "Reverse Crunches",
+            "muscleGroup": "Core",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "4", 
+            "name": "Russian Twists",
+            "muscleGroup": "Core",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "5", 
+            "name": "Leg Raises",
+            "muscleGroup": "Core",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Intermediate"
+        },
+        {
+            "id": "6", 
+            "name": "Mountain Climber",
+            "muscleGroup": "Core",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "7", 
+            "name": "Side Plank",
+            "muscleGroup": "Core",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "8", 
+            "name": "Plank",
+            "muscleGroup": "Core",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        }
+    ]
+}
