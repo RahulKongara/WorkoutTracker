@@ -9,7 +9,7 @@
 ### User Authentication (❗Under Dev)
 
 - To keep track of your workout data along with your personal metrics.
-- This further helps keep track of your consistency in the form of [[streak]].
+- This further helps keep track of your consistency in the form of [streak].
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### [[Streak]] (❗Under Dev)
+### [Streak] (❗Under Dev)
 
 - Keep track of your consistency with the built-in dynamic streak mechanism.
 - All you need to do is login your workout everyday.
