@@ -17,7 +17,7 @@ const Chest = () => {
 
   if (selEx) {
     return (
-      <Exercise 
+      <Exercise
         exercise={selEx}
         onBack={() => setSelEx(null)}
       />
@@ -32,7 +32,7 @@ const Chest = () => {
         <Link className='chest-ex-link' key={i} onClick={() => setSelEx(ex)}>
           <div className='chest-ex-div' key={i} >
             <h5>{ex.type}</h5>
-            <img src={ex.img || 'https://picsum.photos/200'} alt={ex.name} width="200px"/>
+            <img src={ex.img || 'https://picsum.photos/200'} alt={ex.name} width="200px" />
             <h4>{ex.name}</h4>
           </div>
         </Link>

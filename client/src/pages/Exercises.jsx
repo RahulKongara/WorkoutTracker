@@ -17,7 +17,7 @@ const Exercises = () => {
         <Link to='/workouts/shoulder' className='ex-links'><MuscleGroup name="shoulder" /></Link>
         <Link to='/workouts/legs' className='ex-links'><MuscleGroup name="legs" /></Link>
         <Link to='/workouts/arms' className='ex-links'><MuscleGroup name="arms" /></Link>
-        <Link to='/workouts/abs' className='ex-links'><MuscleGroup name="abs" /></Link>  
+        <Link to='/workouts/abs' className='ex-links'><MuscleGroup name="abs" /></Link>
       </div>
       <div className="ex-cardio-div">
         <Link to='/workouts/cardio' className='ex-links'>

@@ -155,11 +155,11 @@
             "type": "Intermediate"
         }
     ],
-    "shoulders": [
+    "shoulder": [
         {
             "id": "1", 
             "name": "Arm Circles",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -168,7 +168,7 @@
         {
             "id": "2", 
             "name": "Pike Push Ups",
-            "muscleGroup": "Chest, Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -177,7 +177,7 @@
         {
             "id": "3", 
             "name": "Shoulder Taps",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -186,7 +186,7 @@
         {
             "id": "4", 
             "name": "Military Press",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -195,7 +195,7 @@
         {
             "id": "5", 
             "name": "Dumbbell Shoulder Press",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -204,7 +204,7 @@
         {
             "id": "6", 
             "name": "Arnold Dumbbell Shoulder Press",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -213,7 +213,7 @@
         {
             "id": "7", 
             "name": "Dumbbell Lateral Raises",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -222,7 +222,7 @@
         {
             "id": "8", 
             "name": "Cable Lateral Raises",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -231,7 +231,7 @@
         {
             "id": "9", 
             "name": "Reverse Pec Dec Machine",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -240,7 +240,7 @@
         {
             "id": "10", 
             "name": "Cable Face Pulls",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -249,7 +249,7 @@
         {
             "id": "11", 
             "name": "Dumbbell Trap Raises",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -258,7 +258,7 @@
         {
             "id": "12", 
             "name": "Barbell Trap Raises",
-            "muscleGroup": "Shoulders",
+            "muscleGroup": "Shoulder",
             "description": "",
             "img": "",
             "videoId": "",
@@ -780,6 +780,44 @@
             "id": "8", 
             "name": "Plank",
             "muscleGroup": "Core",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        }
+    ], 
+    "cardio": [
+        {
+            "id": "1",
+            "name": "Tread Mill Walk",
+            "muscleGroup": "Cardio",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "2",
+            "name": "Fitness Bike",
+            "muscleGroup": "Cardio",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "3",
+            "name": "Some Cardio",
+            "muscleGroup": "Cardio",
+            "description": "",
+            "img": "",
+            "videoId": "",
+            "type": "Beginner"
+        },
+        {
+            "id": "4",
+            "name": "Some Cardio 2",
+            "muscleGroup": "Cardio",
             "description": "",
             "img": "",
             "videoId": "",
